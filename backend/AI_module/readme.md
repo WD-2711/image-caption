@@ -2,7 +2,7 @@
 
 ## Dataset download
 
-Download dataset from [link](). And put it into AI_module/data folder.
+Download dataset from [link](https://pan.baidu.com/s/1-idmL-MRv2CuJ-43rRh44w?pwd=iy51). And put it into AI_module/data folder.
 
 ## Install dependencies
 
@@ -22,7 +22,7 @@ python pre_process.py
 
 ## Train
 
-It cost a lot of time (few days). You can download my trained model from [link2]().
+It cost a lot of time (few days). You can download my trained model from [link2](https://pan.baidu.com/s/1Z_HpNYelnAezDv0xUHiWvA?pwd=rvp6).
 
 ```
 python train.py
